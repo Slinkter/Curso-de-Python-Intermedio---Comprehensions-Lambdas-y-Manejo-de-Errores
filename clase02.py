@@ -13,5 +13,5 @@ def run():
     print(my_list_02)
 
 
-if __name__ == '__main__':
+if __name__ == "__main__":
     run()

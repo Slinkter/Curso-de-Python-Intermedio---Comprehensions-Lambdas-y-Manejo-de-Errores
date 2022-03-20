@@ -1,6 +1,6 @@
 def run():
 
-    print('clase 04')
+    print("clase 04")
 
     cad = "ana"
     dac = cad[::-1]
@@ -9,5 +9,5 @@ def run():
         print(True)
 
 
-if __name__ == '__main__':
+if __name__ == "__main__":
     run()
